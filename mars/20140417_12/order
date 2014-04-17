@@ -1,0 +1,4 @@
+#!/bin/bash
+"nghinv tqateslab orders "
+ls -lsa $HOME
+env

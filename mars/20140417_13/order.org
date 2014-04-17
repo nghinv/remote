@@ -1,5 +1,0 @@
-#!/bin/bash
-
-"nghinv tqatestlab orders"
-ls -lsa $HOME
-env
